@@ -1,5 +1,7 @@
 # Conway's Game of Life
 
+<img src="gol.gif" width="100%">
+
 ## Table of Contents
 
 - [Description](#description)
